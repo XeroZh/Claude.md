@@ -1,2 +1,3 @@
 # Claude.md
-Record some excellent features
+
+WhiteFileFiled.md：Resolving Claude File Editing Failures
